@@ -1,0 +1,50 @@
+[
+  {
+    "course": "CSE",
+    "structure": "view Details",
+    "syllabus1": "I - I Sem",
+    "syllabus2": "I - II Sem",
+    "syllabus3": "II - I Sem",
+    "syllabus4": "II - II Sem"
+  },
+  {
+    "course": "CSE - AIML",
+    "structure": "view Details",
+    "syllabus1": "I - I Sem",
+    "syllabus2": "I - II Sem",
+    "syllabus3": "II - I Sem",
+    "syllabus4": "II - II Sem"
+  },
+  {
+    "course": "CSE - DATA SCIENCE",
+    "structure": "view Details",
+    "syllabus1": "I - I Sem",
+    "syllabus2": "I - II Sem",
+    "syllabus3": "II - I Sem",
+    "syllabus4": "II - II Sem"
+  },
+  {
+    "course": "CSE - CYBER SECURITY",
+    "structure": "view Details",
+    "syllabus1": "I - I Sem",
+    "syllabus2": "I - II Sem",
+    "syllabus3": "II - I Sem",
+    "syllabus4": "II - II Sem"
+  },
+  {
+    "course": "CSE - IoT",
+    "structure": "view Details",
+    "syllabus1": "I - I Sem",
+    "syllabus2": "I - II Sem",
+    "syllabus3": "II - I Sem",
+    "syllabus4": "II - II Sem"
+  },
+  {
+    "course": "INFORMATION TECHNOLOGY",
+    "structure": "view Details",
+    "syllabus1": "I - I Sem",
+    "syllabus2": "I - II Sem",
+    "syllabus3": "II - I Sem",
+    "syllabus4": "II - II Sem"
+  }
+]
